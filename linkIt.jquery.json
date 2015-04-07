@@ -1,0 +1,35 @@
+{
+    "name": "linkIt",
+    "title": "LinkIy jQuery Plugins",
+    "description": "Simpl jQuery plugin t convert element into a link.",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "O Kz and other contributors",
+        "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "O Kz",
+            "email": "kazemzadeh_2005@yahoo.com",
+            "url": "http://gnarf.net"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/okzgit/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    
+    "homepage": "https://github.com/okzgit/jquery.linkit",
+    "docs": "https://github.com/okzgit/jquery.linkit",
+    
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
