@@ -2,7 +2,7 @@
 **LinkIt** is a simple plug in to attach links to elements.
 
 ##Versions##
-0.2.0
+0.3.0
 
 ##Usages##
     $('span').linkIt({
